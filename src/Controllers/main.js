@@ -1,4 +1,4 @@
-import { Convertidor } from './convertidor.js';
+import { Convertidor } from './Convertidor.js';
 
 function convertirAPrefijo() {
     const infijoExpresion = document.getElementById("infijoExpresion").value;
