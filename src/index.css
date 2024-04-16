@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E8EBA3;
+    color: #36332C;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #946954;
+}
+
+label {
+    color: #808E7B;
+}
+
+input[type="text"] {
+    padding: 8px;
+    border: 1px solid #808E7B;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #946954;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #808E7B;
+}
+
+#prefijoResultado {
+    background-color: #A39DA8;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
